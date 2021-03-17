@@ -2,10 +2,8 @@
 
 ### About Me:
 + I am a B.Tech. Student at Walchand College of Engineering Sangli. 🏫
-+ Currently learning React 
++ Currently learning C# and Dot Net Core
 + Looking to collaborate with other developers
-+ Later Half 2020 Goal : Competitive Programing
-+ Polishing Mathematics and Data Science Skills
 + Fun fact : Tabs are better than spaces.
 
 
