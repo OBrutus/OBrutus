@@ -27,6 +27,7 @@
 ### Reach Me:
 <a href="https://www.linkedin.com/in/aniket-vaishnav/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a>
 <a href="https://github.com/OBrutus/"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733609.svg" width="35"></a> 
+<a href="http://dev.to/obrutus"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="35"></a>
 <a href="url-coming-soon"> <img src="url.png" width="35"></a>
 
 
