@@ -1,4 +1,4 @@
-# 👨‍💻 Aniket Vaishnav 👨‍💻
+<h1 align = "center">👨‍💻 Aniket Vaishnav 👨‍💻</h1>
 
 ### About Me:
 + I am a B.Tech. Student at Walchand College of Engineering Sangli. 🏫
@@ -33,3 +33,5 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/OBrutus/)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=obrutus&" alt="obrutus" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrutus&layout=compact&langs_count=8" alt="obrutus" /> -->
