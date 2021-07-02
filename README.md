@@ -12,13 +12,7 @@
 
 <!-- //// urls via img -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=OBrutus
-&bg_color=30,e96443,904e95
-&title_color=ff0
-&text_color=fff
-&count_private=true
-&include_all_commits=true
-&langs_count=10">
+<img src="https://github-readme-stats.vercel.app/api?username=OBrutus&bg_color=30,e96443,904e95&title_color=ff0&text_color=fff&count_private=true&include_all_commits=true&langs_count=10">
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=obrutus&count_private=true&show_icons=true&hide_title=true&include_all_commits=true"> -->
 
@@ -32,14 +26,7 @@
 
 ## Skills:  
 
- <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" width="45" name="Java">  
- <img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="45" name="Python">  
- <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="50" name="C"> 
- <img src="cpp.png" width="50" name=cpp>  
- <!-- <img src="spring.png" width="60" name=spring>    -->
- <img src="bash.ico" width="45" name="bash"> 
- <img src="javascript.ico" width="33" name="javascript">  
- <img src="https://images.tutorialedge.net/images/node.png" width="48" name="node">   
+ <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" width="45" name="Java">  <img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="45" name="Python">  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="50" name="C"> <img src="cpp.png" width="50" name=cpp>   <img src="bash.ico" width="45" name="bash"> <img src="javascript.ico" width="33" name="javascript">  <img src="https://images.tutorialedge.net/images/node.png" width="48" name="node">   
  <!-- <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" width="48" name="Express">  -->
  <!-- <img src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" width="70" name="MySQL">  -->
  <!-- <img src="https://static.djangoproject.com /img/logos/django-logo-negative.png" width="90" name="DJango">   -->
@@ -60,8 +47,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/OBrutus/)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=obrutus&" alt="obrutus" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrutus
-&layout=compact
-&langs_count=6
-&hide=Rich Text Format , HTML" alt="obrutus"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrutus&layout=compact&langs_count=6&hide=Rich Text Format,HTML" alt="obrutus"/>
