@@ -1,50 +1,139 @@
-<h1 align = "center">👨‍💻 Aniket Vaishnav 👨‍💻</h1>
+![👨‍💻 Hey I am, Aniket Vaishnav 👨‍💻](./res/intro-header.png)
+
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (Ohh My God! you are here to check out the source of the README)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+[comment]: <> (============================)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+Software+Engineer;I+write+~code~;Bugs+comes+as+complement+XD)](https://git.io/typing-svg)
+
+![Aniket's Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obrutus&theme=transparent)
 
 ## About Me:
-+ I am a B.Tech. Student at Walchand College of Engineering, Sangli. 🏫
-+ Currently learning C# and Dot Net Core
+
++ A passionate Software Engineer, from India 🇮🇳
 + Looking to collaborate with other developers
 + Fun fact : 
   * Vim :heavy_plus_sign: VS Code = :brown_heart:.
-  * There are 10 kind of people, using \n @ EOF || !
 
-<!-- ![OBrutus github stats](https://github-readme-stats.vercel.app/api?username=OBrutus&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
+[![Aniket Vaishnav StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9928212&theme=dark)](https://stackoverflow.com/users/9928212/obrutus)
+![](https://github-readme-stats.vercel.app/api?username=OBrutus&bg_color=0000&title_color=ff0&text_color=ABC&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_owner=true)
 
-<!-- //// urls via img -->
+<details>
+<summary>
+More details
+</summary>
 
-<img src="https://github-readme-stats.vercel.app/api?username=OBrutus&bg_color=30,e96443,904e95&title_color=ff0&text_color=fff&count_private=true&include_all_commits=true&langs_count=10">
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obrutus&theme=dracula) ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=obrutus&theme=dracula&utcOffset=5.30)
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=obrutus&count_private=true&show_icons=true&hide_title=true&include_all_commits=true"> -->
+</details>
 
-<img align="right" src="https://media.giphy.com/media/NPXkCN2FutVO1Nt4P9/giphy-downsized.gif" width="260">
+[comment]: <> (## Hobbies: )
 
-## Hobbies: 
-  + Astronomy  :ringed_planet:
-  + Singing    :musical_note:
-  + Travel     :sunrise_over_mountains:
-  + Gaming     :video_game:
+[comment]: <> (  + Astronomy  :ringed_planet:)
 
-## Skills:  
+[comment]: <> (  + Singing    :musical_note:)
 
- <img src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" width="45" name="Java">  <img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="45" name="Python">  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="50" name="C"> <img src="cpp.png" width="50" name=cpp>   <img src="bash.ico" width="45" name="bash"> <img src="javascript.ico" width="33" name="javascript">  <img src="https://images.tutorialedge.net/images/node.png" width="48" name="node">   
- <!-- <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" width="48" name="Express">  -->
- <!-- <img src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" width="70" name="MySQL">  -->
- <!-- <img src="https://static.djangoproject.com /img/logos/django-logo-negative.png" width="90" name="DJango">   -->
- <!-- <img src="" width="90" name="Electron">  -->
-  
-<br>
-<br>
-🤝🏻 Let's Connect and Collaborate! 🤝🏻
+[comment]: <> (  + Travel     :sunrise_over_mountains:)
+
+[comment]: <> (  + Gaming     :video_game:)
+
+## Skills: 
+<table width="1200%">
+<tr>
+<th>
+
+[![My Skills](https://skillicons.dev/icons?i=java,linux,aws,gradle,spring)](https://medium.com/@obrutus)
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,nodejs,next,materialui)](https://medium.com/@obrutus)
+
+[![My Skills](https://skillicons.dev/icons?i=dynamodb,mysql,mongo,firebase)](https://medium.com/@obrutus)
+
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow)](https://medium.com/@obrutus)
+
+[![My Skills](https://skillicons.dev/icons?i=idea,neovim,vscode)](https://medium.com/@obrutus)
+</th>
+<th width="60%">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=obrutus&row=2&column=3&theme=onedark&margin-w=15&margin-h=15)](https://github.com/obrutus)
+
+[comment]: <> (![Repos]&#40;http://github-profile-summary-cards.vercel.app/api/cards/stats?username=obrutus&theme=dracula&#41;)
+</th>
+</tr>
+</table>
 
 ## Reach Me:
-<a href="https://www.linkedin.com/in/aniket-vaishnav/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a>
-<a href="https://github.com/OBrutus/"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733609.svg" width="35"></a> 
-<a href="http://dev.to/obrutus"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="35"></a>
-<a href="url-coming-soon"> <img src="url.png" width="35"></a>
+🤝🏻 Let's Connect and Collaborate! 🤝🏻
 
-<!-- ![profile-trophy](https://github-profile-trophy.vercel.app/?username=obrutus&column=8&margin-w=15&margin-h=15) -->
+[![Connect](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/9928212/obrutus)
+[![Connect](https://skillicons.dev/icons?i=devto)](https://dev.to/obrutus)
+[![Connect](./res/medium_icon.png)](https://medium.com/@obrutus/)
+[![Connect](https://skillicons.dev/icons?i=vercel)](https://aniketvaishnav.vercel.app/)
+[![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aniket-vaishnav/)
+[![Connect](https://skillicons.dev/icons?i=github)](https://www.github.com/OBrutus)
+[![Connect](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/aniket_vaishnav7/)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/OBrutus/)
+[![OBrutus StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/9928212)](https://stackoverflow.com/users/9928212/obrutus)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=obrutus&" alt="obrutus" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrutus&layout=compact&langs_count=6&hide=Rich Text Format,HTML" alt="obrutus"/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/OBrutus/)
+
+[comment]: <> (<img src="https://github-readme-streak-stats.herokuapp.com/?user=obrutus&" alt="obrutus" />)
+
+[comment]: <> (<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrutus&layout=compact&langs_count=6&hide=Rich Text Format,HTML" alt="obrutus"/>)
+
+# Blog posts
+[comment]: <> (The blogs starts from here)
+
+[![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
