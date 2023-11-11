@@ -136,4 +136,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to have an approach within LLD](https://medium.com/@obrutus/how-to-have-an-approach-within-lld-f49101d35afb?source=rss-b9bb2cd4a217------2)
+- [How to have an approach within LLD](https://dev.to/obrutus/how-to-have-an-approach-within-lld-38o3)
+- [Convert array into Zig-Zag fashion](https://dev.to/obrutus/convert-array-into-zig-zag-fashion-i8)
+- [Chocolate Distribution Problem](https://dev.to/obrutus/chocolate-distribution-problem-3jm2)
+- [One Liner Solution for Checking Power of Four, without log](https://dev.to/obrutus/one-liner-solution-for-checking-power-of-four-41g0)
 <!-- BLOG-POST-LIST:END -->
