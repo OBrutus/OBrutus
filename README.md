@@ -1,3 +1,4 @@
+github-readme-stats-git-main-obrutus.vercel.app
 ![👨‍💻 Hey I am, Aniket Vaishnav 👨‍💻](./res/intro-header.png)
 
 [comment]: <> (============================)
@@ -62,10 +63,10 @@
 + A passionate Software Engineer, from India 🇮🇳
 + Looking to collaborate with other developers
 + Fun fact : 
-  * Vim :heavy_plus_sign: VS Code = :brown_heart:.
+  * Vim :heavy_plus_sign: VS Code :heavy_plus_sign: [Good Music](https://open.spotify.com/playlist/6EgxPLBCMCCkdVIeXLmOZc?si=a09e56780b9245d9) = :brown_heart:.
 
-[![Aniket Vaishnav StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9928212&theme=dark)](https://stackoverflow.com/users/9928212/obrutus)
-![](https://github-readme-stats.vercel.app/api?username=OBrutus&bg_color=0000&title_color=ff0&text_color=ABC&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_owner=true)
+[![Aniket Vaishnav StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9928212&theme=dark)](https://stackoverflow.com/users/9928212/obrutus) ![Self hosted readme stats](https://obrutus-github-stats.vercel.app/api?username=OBrutus&bg_color=0000&title_color=ff0&text_color=ABC&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_owner=true)
+![Alt text](./res/coding-focus-image.gif)
 
 <details>
 <summary>
