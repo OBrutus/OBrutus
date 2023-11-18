@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in dev.to posts
+      - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/obrutus,https://medium.com/feed/@obrutus"
+          feed_list: "https://dev.to/feed/obrutus,https://obrutus.blogspot.com/feeds/posts/default,https://www.youtube.com/feeds/videos.xml?channel_id=UCUX05QRuhc57x-vrhHDYPNQ"
