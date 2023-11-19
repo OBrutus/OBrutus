@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
-- [How to have an approach within LLD](https://medium.com/@obrutus/how-to-have-an-approach-within-lld-f49101d35afb?source=rss-b9bb2cd4a217------2)
+- [String Rotation by 2 place GeeksForGeeks | Practice POTD | Explained and Solved](https://www.youtube.com/watch?v=c_Uo1aoBlEA)
+- [Seat Reservation Manager - Leetcode 1845 - Java | Fastest](https://www.youtube.com/watch?v=P9IqMWYirEQ)
+- [Find k weakest row in a Matrix | Optimized for Fastest run | Leetcode](https://www.youtube.com/watch?v=9IwWH-MTGt4)
 - [How to have an approach within LLD](https://dev.to/obrutus/how-to-have-an-approach-within-lld-38o3)
-- [Convert array into Zig-Zag fashion](https://dev.to/obrutus/convert-array-into-zig-zag-fashion-i8)
-- [Chocolate Distribution Problem](https://dev.to/obrutus/chocolate-distribution-problem-3jm2)
-- [One Liner Solution for Checking Power of Four, without log](https://dev.to/obrutus/one-liner-solution-for-checking-power-of-four-41g0)
+- [The K weakest row in a matrix | Leetcode | Coding Solution](https://www.youtube.com/watch?v=5GrrR3iVDQg)
 <!-- BLOG-POST-LIST:END -->
