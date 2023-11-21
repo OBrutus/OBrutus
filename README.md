@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcement 🤞](https://www.youtube.com/watch?v=3KZOzNwrNsQ)
 - [String Rotation by 2 place GeeksForGeeks | Practice POTD | Explained and Solved](https://www.youtube.com/watch?v=c_Uo1aoBlEA)
 - [Seat Reservation Manager - Leetcode 1845 - Java | Fastest](https://www.youtube.com/watch?v=P9IqMWYirEQ)
 - [Find k weakest row in a Matrix | Optimized for Fastest run | Leetcode](https://www.youtube.com/watch?v=9IwWH-MTGt4)
 - [How to have an approach within LLD](https://dev.to/obrutus/how-to-have-an-approach-within-lld-38o3)
-- [The K weakest row in a matrix | Leetcode | Coding Solution](https://www.youtube.com/watch?v=5GrrR3iVDQg)
 <!-- BLOG-POST-LIST:END -->
