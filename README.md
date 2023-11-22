@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sort arrays of zero&#39;s, one&#39;s and two&#39;s](https://dev.to/obrutus/sort-arrays-of-zeros-ones-and-twos-348i)
 - [Announcement 🤞](https://www.youtube.com/watch?v=3KZOzNwrNsQ)
 - [String Rotation by 2 place GeeksForGeeks | Practice POTD | Explained and Solved](https://www.youtube.com/watch?v=c_Uo1aoBlEA)
 - [Seat Reservation Manager - Leetcode 1845 - Java | Fastest](https://www.youtube.com/watch?v=P9IqMWYirEQ)
 - [Find k weakest row in a Matrix | Optimized for Fastest run | Leetcode](https://www.youtube.com/watch?v=9IwWH-MTGt4)
-- [How to have an approach within LLD](https://dev.to/obrutus/how-to-have-an-approach-within-lld-38o3)
 <!-- BLOG-POST-LIST:END -->
