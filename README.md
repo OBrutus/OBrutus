@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Find missing number in an array | 5 different ways](https://www.youtube.com/watch?v=gD5md8uyB7o)
 - [Middle of The Linked List | Explained &amp; Solved](https://www.youtube.com/watch?v=h87mBu-wVfo)
 - [Sort Arrays of 0s 1s and 2s | Sort Colors | Explained &amp; Solved](https://www.youtube.com/watch?v=cp6fWxzVpd0)
 - [Sort Vowels in a String](https://dev.to/obrutus/sort-vowels-in-a-string-klc)
 - [Sort Vowels in a String | Leetcode Medium | Explained &amp; Solved](https://www.youtube.com/watch?v=q3UKGw43zXs)
-- [Last Moment Before All Ants Fall Out of a Plank | Leetcode | FAANGM Interview Question](https://www.youtube.com/watch?v=wa2mif6TCco)
 <!-- BLOG-POST-LIST:END -->
