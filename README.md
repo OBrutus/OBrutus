@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Find Duplicate in Array | No extra space used](https://www.youtube.com/watch?v=Nnaxinxe_I8)
 - [Merge two sorted Linked List | Explained and Solved](https://www.youtube.com/watch?v=1svSpKqtjv4)
 - [Find Missing Number](https://dev.to/obrutus/find-missing-number-2ah2)
 - [Find missing number in an array | 5 different ways](https://www.youtube.com/watch?v=gD5md8uyB7o)
 - [Middle of Linked List | Explained &amp; Solved](https://www.youtube.com/watch?v=h87mBu-wVfo)
-- [Sort Arrays of 0s 1s and 2s | Sort Colors | Explained &amp; Solved](https://www.youtube.com/watch?v=cp6fWxzVpd0)
 <!-- BLOG-POST-LIST:END -->
