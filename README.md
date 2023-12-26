@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Delete Node in Linked List in O&lpar;1&rpar; | Singly Linked List](https://www.youtube.com/watch?v=vIQGZ7zsvec)
 - [Find Duplicate in Array | No extra space used](https://www.youtube.com/watch?v=Nnaxinxe_I8)
 - [Merge two sorted Linked List | Explained and Solved](https://www.youtube.com/watch?v=1svSpKqtjv4)
 - [Find Missing Number](https://dev.to/obrutus/find-missing-number-2ah2)
 - [Find missing number in an array | 5 different ways](https://www.youtube.com/watch?v=gD5md8uyB7o)
-- [Middle of Linked List | Explained &amp; Solved](https://www.youtube.com/watch?v=h87mBu-wVfo)
 <!-- BLOG-POST-LIST:END -->
