@@ -137,7 +137,7 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
-- [Merge Overlapping Intervals | Must watch Greedy](https://www.youtube.com/watch?v=NR3GZ7lYTws)
+- [Merge Overlapping Intervals | Leetcode DSA](https://www.youtube.com/watch?v=NR3GZ7lYTws)
 - [Palindromic Array | DSA Problem Solving | Basic](https://www.youtube.com/watch?v=oWKe3AKInyQ)
 - [Delete Node in Linked List in O&lpar;1&rpar; | Singly Linked List](https://www.youtube.com/watch?v=vIQGZ7zsvec)
 - [Find Duplicate in Array | No extra space used](https://www.youtube.com/watch?v=Nnaxinxe_I8)
