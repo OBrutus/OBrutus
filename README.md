@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Pangram String | Multiple ways to approach | GeeksForGeeks](https://www.youtube.com/watch?v=auH2O48GhvY)
 - [Number of Islands | Leetcode 200](https://www.youtube.com/watch?v=jkGfcx1g_gc)
 - [Merge Overlapping Intervals | Leetcode DSA](https://www.youtube.com/watch?v=NR3GZ7lYTws)
 - [Palindromic Array | DSA Problem Solving | Basic](https://www.youtube.com/watch?v=oWKe3AKInyQ)
 - [Delete Node in Linked List in O&lpar;1&rpar; | Singly Linked List](https://www.youtube.com/watch?v=vIQGZ7zsvec)
-- [Find Duplicate in Array | No extra space used](https://www.youtube.com/watch?v=Nnaxinxe_I8)
 <!-- BLOG-POST-LIST:END -->
