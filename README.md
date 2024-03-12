@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Parrot Sec Security OS installation VM](https://www.youtube.com/watch?v=929zdq6e7ac)
 - [Children sum property in Binary Tree | Simplest 4 line Solution](https://www.youtube.com/watch?v=wYQkGQXChXU)
 - [Check if all leaves are at same level | 4 different ways to approach](https://www.youtube.com/watch?v=x6zRlYIOjDk)
 - [Find sum of series | one liner solution](https://www.youtube.com/watch?v=BnzquRwmQH0)
 - [Pangram String | Multiple ways to approach | GeeksForGeeks](https://www.youtube.com/watch?v=auH2O48GhvY)
-- [Number of Islands | Leetcode 200](https://www.youtube.com/watch?v=jkGfcx1g_gc)
 <!-- BLOG-POST-LIST:END -->
