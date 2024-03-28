@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [First Missing Positive | 4 different ways with solution](https://www.youtube.com/watch?v=lqmMRFJHor4)
 - [Reorder List a Linked List Interview Question](https://www.youtube.com/watch?v=woM2HedCnGA)
 - [Parrot Sec Security OS installation VM](https://www.youtube.com/watch?v=929zdq6e7ac)
 - [Children sum property in Binary Tree | Simplest 4 line Solution](https://www.youtube.com/watch?v=wYQkGQXChXU)
 - [Check if all leaves are at same level | 4 different ways to approach](https://www.youtube.com/watch?v=x6zRlYIOjDk)
-- [Find sum of series | one liner solution](https://www.youtube.com/watch?v=BnzquRwmQH0)
 <!-- BLOG-POST-LIST:END -->
