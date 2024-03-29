@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
-- [First Missing Positive | 4 different ways with solution](https://www.youtube.com/watch?v=lqmMRFJHor4)
-- [Reorder List a Linked List Interview Question](https://www.youtube.com/watch?v=woM2HedCnGA)
-- [Parrot Sec Security OS installation VM](https://www.youtube.com/watch?v=929zdq6e7ac)
-- [Children sum property in Binary Tree | Simplest 4 line Solution](https://www.youtube.com/watch?v=wYQkGQXChXU)
-- [Check if all leaves are at same level | 4 different ways to approach](https://www.youtube.com/watch?v=x6zRlYIOjDk)
+- [Find Missing Number](https://dev.to/obrutus/find-missing-number-2ah2)
+- [Sort Vowels in a String](https://dev.to/obrutus/sort-vowels-in-a-string-klc)
+- [Sort arrays of zero&#39;s, one&#39;s and two&#39;s](https://dev.to/obrutus/sort-arrays-of-zeros-ones-and-twos-348i)
+- [How to have an approach within LLD](https://dev.to/obrutus/how-to-have-an-approach-within-lld-38o3)
+- [Convert array into Zig-Zag fashion](https://dev.to/obrutus/convert-array-into-zig-zag-fashion-i8)
 <!-- BLOG-POST-LIST:END -->
