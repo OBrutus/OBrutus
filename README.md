@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up ollama 3](https://dev.to/obrutus/setting-up-ollama-3-2jeg)
+- [ChatGPT like LLM, ollama, setup on laptop within 5 mins.](https://www.youtube.com/watch?v=W1zrOLfgPaA)
 - [Find All Duplicate in an Array | Leetcode problem 442](https://www.youtube.com/watch?v=GNyubdTJJm0)
 - [Get All the Route to Leaf | Tree Question for Interview](https://www.youtube.com/watch?v=nzP7unWQzh8)
 - [Reverse Level Order Traversal | Trees question for Interview](https://www.youtube.com/watch?v=xl21nI6XNJc)
-- [Row with min One&#39;s | Trick Question ? | Why FAANG asks?](https://www.youtube.com/watch?v=fYcf2FewFiU)
-- [Second Largest number in Array | DSA Learning](https://www.youtube.com/watch?v=xknnFsRfKYI)
 <!-- BLOG-POST-LIST:END -->
