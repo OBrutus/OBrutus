@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Construct Binary Tree from Parent Array | Solved and Explaination | GeeksForGeeks | Tree](https://www.youtube.com/watch?v=JHMXYQefg34)
 - [Remaining String | Strings DSA Algo | GFG POTD 24 Jul](https://www.youtube.com/watch?v=79Q_9hSMEUw)
 - [Segregate 0s and 1s | Three different methods | DSA &amp; Algo](https://www.youtube.com/watch?v=eI_RuEblESw)
 - [Setting up ollama 3](https://dev.to/obrutus/setting-up-ollama-3-2jeg)
 - [ChatGPT like LLM, ollama, setup on laptop within 5 mins.](https://www.youtube.com/watch?v=W1zrOLfgPaA)
-- [Find All Duplicate in an Array | Leetcode problem 442](https://www.youtube.com/watch?v=GNyubdTJJm0)
 <!-- BLOG-POST-LIST:END -->
