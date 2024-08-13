@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Square root of a number | GFG practice | DSA Algo Binary Search](https://www.youtube.com/watch?v=7_pnxMDgozE)
 - [Create BST from Array | Balanced Binary Search Tree | AVL Tree from Array](https://www.youtube.com/watch?v=fJeHYjjJP4E)
 - [Check for BST | Validate Binary Search Tree | Validate BST | Check BST](https://www.youtube.com/watch?v=V7TamFmvE60)
 - [Longest alternating subsequence | Optimization explained | GFG POTD](https://www.youtube.com/watch?v=dERu3JMbyws)
 - [Construct Binary Tree from Parent Array | Solved and Explaination | GeeksForGeeks | Tree](https://www.youtube.com/watch?v=JHMXYQefg34)
-- [Remaining String | Strings DSA Algo | GFG POTD 24 Jul](https://www.youtube.com/watch?v=79Q_9hSMEUw)
 <!-- BLOG-POST-LIST:END -->
