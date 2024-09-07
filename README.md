@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [3217. Delete Nodes From Linked List Present in Array | Leetcode DSA Interview](https://www.youtube.com/watch?v=hVIVXDjXB3g)
+- [Kadane&#39;s Algorithm | The beginning of Dynamic Programming](https://www.youtube.com/watch?v=setUyWKj3Vc)
 - [हिंदी में जानिए Student that will replace the chalk I Leetcode 1894](https://www.youtube.com/watch?v=pEhph4B1xiQ)
 - [Find length of Loop | LinkedList | DSA Interview](https://www.youtube.com/watch?v=7Ei0hzfOlwY)
 - [Left View of Binary Tree | DSA GFG POTD](https://www.youtube.com/watch?v=8twb_RK3ib4)
-- [Free ChatGPT API | No daily limit with streamed and unstream response](https://www.youtube.com/watch?v=abU7Tq53kw0)
-- [Square root of a number | GFG practice | DSA Algo Binary Search](https://www.youtube.com/watch?v=7_pnxMDgozE)
 <!-- BLOG-POST-LIST:END -->
