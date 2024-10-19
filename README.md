@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Single Number within Array | DSA Interview Question](https://www.youtube.com/watch?v=Cq6j_4wUZi4)
 - [2530. Maximal Score After Applying K Operations | DSA and Leetcode](https://www.youtube.com/watch?v=Fl92ljPX2MM)
 - [2220. Minimum Bit Flips to Convert Number | Leetcode DSA](https://www.youtube.com/watch?v=DMgxxxy_geM)
 - [3217. Delete Nodes From Linked List Present in Array | Leetcode DSA Interview](https://www.youtube.com/watch?v=hVIVXDjXB3g)
 - [Kadane&#39;s Algorithm | The beginning of Dynamic Programming](https://www.youtube.com/watch?v=setUyWKj3Vc)
-- [हिंदी में जानिए Student that will replace the chalk I Leetcode 1894](https://www.youtube.com/watch?v=pEhph4B1xiQ)
 <!-- BLOG-POST-LIST:END -->
