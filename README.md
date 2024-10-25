@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Flip Equivalent Binary Trees | DSA Interview Coding | Trees](https://www.youtube.com/watch?v=Tx3_XDwwvCc)
 - [Find the Sum of Last N nodes of the Linked List | DSA Interveiw Question](https://www.youtube.com/watch?v=-ojeCp60St4)
 - [Nearest multiple of 10](https://dev.to/obrutus/nearest-multiple-of-10-9od)
 - [Nearest multiple of 10 | DSA and Coding Interview question](https://www.youtube.com/watch?v=Z-eUs4f61DE)
 - [Single Number within Array | DSA Interview Question](https://www.youtube.com/watch?v=Cq6j_4wUZi4)
-- [2530. Maximal Score After Applying K Operations | DSA and Leetcode](https://www.youtube.com/watch?v=Fl92ljPX2MM)
 <!-- BLOG-POST-LIST:END -->
