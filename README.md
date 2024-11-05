@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Rotate by 90 degree | DSA Interview question](https://www.youtube.com/watch?v=xvAF-WdV18Y)
+- [3163. String Compression III | Leetcode DSA | Interview coding](https://www.youtube.com/watch?v=92AmZ5xF7yI)
 - [Flip Equivalent Binary Trees | DSA Interview Coding | Trees](https://www.youtube.com/watch?v=Tx3_XDwwvCc)
 - [Find the Sum of Last N nodes of the Linked List | DSA Interveiw Question](https://www.youtube.com/watch?v=-ojeCp60St4)
 - [Nearest multiple of 10](https://dev.to/obrutus/nearest-multiple-of-10-9od)
-- [Nearest multiple of 10 | DSA and Coding Interview question](https://www.youtube.com/watch?v=Z-eUs4f61DE)
-- [Single Number within Array | DSA Interview Question](https://www.youtube.com/watch?v=Cq6j_4wUZi4)
 <!-- BLOG-POST-LIST:END -->
