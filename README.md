@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Two Sum – Pair with given Sum | Interview Practice](https://www.youtube.com/watch?v=AhgCdUyeK_U)
 - [Search in a sorted Matrix | Simplest 7 liner solution | Interview Question](https://www.youtube.com/watch?v=wOrPvmj-u-Q)
 - [H Index - Geeks for geeks - Leetcode 274 - Arrays &amp; Strings](https://www.youtube.com/watch?v=T3KGMzZKEFc)
 - [Meeting Rooms | Practice GFG](https://www.youtube.com/watch?v=AjMW2q6bwyk)
 - [Root to leaf paths sum | DSA Tree Question | Interview](https://www.youtube.com/watch?v=t-ht9HWD-DY)
-- [3163. String Compression III](https://dev.to/obrutus/3163-string-compression-iii-ac3)
 <!-- BLOG-POST-LIST:END -->
