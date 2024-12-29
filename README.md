@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Valid Anagram | 3 diff ways to solve problem](https://www.youtube.com/watch?v=SebhaUBbUs4)
 - [Count pairs with given sum | Interview Coding solved](https://www.youtube.com/watch?v=6IXm9NbqT5I)
 - [Count pairs with given sum](https://obrutus.blogspot.com/2024/12/count-pairs-with-given-sum.html)
 - [Two Sum – Pair with given Sum | Interview Practice](https://www.youtube.com/watch?v=AhgCdUyeK_U)
 - [Search in a sorted Matrix | Simplest 7 liner solution | Interview Question](https://www.youtube.com/watch?v=wOrPvmj-u-Q)
-- [H Index - Geeks for geeks - Leetcode 274 - Arrays &amp; Strings](https://www.youtube.com/watch?v=T3KGMzZKEFc)
 <!-- BLOG-POST-LIST:END -->
