@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sum Pair closest to target | 3 Solutions](https://obrutus.blogspot.com/2025/01/sum-pair-closest-to-target-3-solutions.html)
+- [Sum Pair closest to target | 3 Solutions](https://www.youtube.com/watch?v=B_TTY5VFkho)
 - [Count Pairs whose sum is less than target | 3 Solutions](https://obrutus.blogspot.com/2025/01/count-pairs-whose-sum-is-less-than.html)
 - [Count Pairs whose sum is less than target | 3 Solutions](https://www.youtube.com/watch?v=uISnk-RgYfo)
 - [Union of Arrays with Duplicates | why asked simple questions?](https://obrutus.blogspot.com/2024/12/union-of-arrays-with-duplicates-why.html)
-- [Union of Arrays with Duplicates | why asked simple questions?](https://www.youtube.com/watch?v=Ob44rKwKSbk)
-- [Valid Anagram | 3 diff ways to solve problem](https://www.youtube.com/watch?v=SebhaUBbUs4)
 <!-- BLOG-POST-LIST:END -->
