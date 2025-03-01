@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Evaluation of Postfix Expression | 3 Step Simple Solution](https://obrutus.blogspot.com/2025/02/evaluation-of-postfix-expression-3-step.html)
+- [Evaluation of Postfix Expression | 3 Step Simple Solution](https://www.youtube.com/watch?v=XmDlL7bwF5s)
 - [Height of a Tree | 3 step solution](https://www.youtube.com/watch?v=UdUIlrGF9es)
 - [how to dry run ? Dry running a recursive algorithm](https://obrutus.blogspot.com/2025/01/how-to-dry-run-dry-running-recursive.html)
 - [how to dry run ? Dry running a recursive algorithm](https://www.youtube.com/watch?v=rY33GXbDsAg)
-- [Sum Pair closest to target | 3 Solutions](https://obrutus.blogspot.com/2025/01/sum-pair-closest-to-target-3-solutions.html)
-- [Sum Pair closest to target | 3 Solutions](https://www.youtube.com/watch?v=B_TTY5VFkho)
 <!-- BLOG-POST-LIST:END -->
