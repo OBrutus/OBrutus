@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Stickler Thief | House Robbery | 3 Ways to Solve](https://www.youtube.com/watch?v=RXSuEBvSo5k)
 - [Construct list using given q XOR queries](https://www.youtube.com/watch?v=enyuqljxFjk)
 - [Evaluation of Postfix Expression | 3 Step Simple Solution](https://obrutus.blogspot.com/2025/02/evaluation-of-postfix-expression-3-step.html)
 - [Evaluation of Postfix Expression | 3 Step Simple Solution](https://www.youtube.com/watch?v=XmDlL7bwF5s)
 - [Height of a Tree | 3 step solution](https://www.youtube.com/watch?v=UdUIlrGF9es)
-- [how to dry run ? Dry running a recursive algorithm](https://obrutus.blogspot.com/2025/01/how-to-dry-run-dry-running-recursive.html)
 <!-- BLOG-POST-LIST:END -->
