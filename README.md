@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaling Google sheet as backend to Millions - System design case study](https://www.youtube.com/watch?v=NAfs4J5KdHs)
 - [Two Sum | First step to Leetcode question 1](https://www.youtube.com/watch?v=fHLTC5n-TeY)
 - [Stickler Thief 2 | House Robbery 2 | One liner code](https://obrutus.blogspot.com/2025/03/stickler-thief-2-house-robbery-2-one.html)
 - [Stickler Thief 2, House Robbery 2 | The One liner code](https://www.youtube.com/watch?v=rW8_Xm3PZzY)
 - [Stickler Thief | House Robbery | 3 Ways to Solve](https://www.youtube.com/watch?v=RXSuEBvSo5k)
-- [Construct list using given q XOR queries](https://www.youtube.com/watch?v=enyuqljxFjk)
 <!-- BLOG-POST-LIST:END -->
