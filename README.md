@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosine Similarity Explained — Intuitively and Practically](https://dev.to/obrutus/cosine-similarity-explained-intuitively-and-practically-44md)
 - [Majority Element - LeetCode 169 | Optimal C++ Solution with Full Explana...](https://obrutus.blogspot.com/2025/06/majority-element-leetcode-169-optimal-c.html)
 - [Majority Element - LeetCode 169 | Optimal C++ Solution with Full Explanation &lpar;Easy for Beginners&rpar;](https://www.youtube.com/watch?v=iEj1MkQRxCo)
 - [📈 Best Time to Buy and Sell Stock &lpar;LeetCode 121&rpar;](https://dev.to/obrutus/best-time-to-buy-and-sell-stock-leetcode-121-2c7c)
 - [Best Time to Buy and Sell Stock - LeetCode 121 | C++ Solution with Full Explanation for Beginners](https://www.youtube.com/watch?v=COJ-KY7DIOs)
-- [Scaling Google sheet as backend to Millions - System design case study](https://www.youtube.com/watch?v=NAfs4J5KdHs)
 <!-- BLOG-POST-LIST:END -->
