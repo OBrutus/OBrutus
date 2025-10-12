@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Maximum path sum with Tree parsing | Interview DSA Learning](https://obrutus.blogspot.com/2025/10/maximum-path-sum-with-tree-parsing.html)
+- [Maximum path sum with Tree parsing | Interview DSA Learning](https://www.youtube.com/watch?v=0IH5KQxd1hU)
 - [Chameleons Quiz | Interview Quiz Day 1](https://obrutus.blogspot.com/2025/10/chameleons-quiz-interview-quiz-day-1.html)
 - [Chameleons Quiz | Interview Quiz Day 1](https://www.youtube.com/shorts/si8EKYGV6jE)
 - [ZigZag Tree Traversal with Interview ready solution with explaination | ...](https://obrutus.blogspot.com/2025/10/zigzag-tree-traversal-with-interview.html)
-- [ZigZag Tree Traversal with Interview ready solution with explaination | Geeks for Geeks practice](https://www.youtube.com/watch?v=TcZhrjh2Yqg)
-- [Cosine Similarity Explained — Intuitively and Practically](https://dev.to/obrutus/cosine-similarity-explained-intuitively-and-practically-44md)
 <!-- BLOG-POST-LIST:END -->
