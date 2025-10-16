@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Remove BST keys outside given range | DSA Coding](https://obrutus.blogspot.com/2025/10/remove-bst-keys-outside-given-range-dsa.html)
+- [Remove BST keys outside given range | DSA Coding](https://www.youtube.com/watch?v=tmKA1s0vq9E)
+- [K-th Smallest in BST | DSA Tree Traversal](https://obrutus.blogspot.com/2025/10/k-th-smallest-in-bst-dsa-tree-traversal.html)
+- [K-th Smallest in BST | DSA Tree Traversal](https://www.youtube.com/watch?v=1L07w4A_erc)
 - [Sum of Nodes in BST Range | DSA Tree Traversal](https://obrutus.blogspot.com/2025/10/sum-of-nodes-in-bst-range-dsa-tree_13.html)
-- [Sum of Nodes in BST Range | DSA Tree Traversal](https://obrutus.blogspot.com/2025/10/sum-of-nodes-in-bst-range-dsa-tree.html)
-- [Sum of Nodes in BST Range | DSA Tree Traversal](https://www.youtube.com/watch?v=jzCF0HKXpRs)
-- [Maximum path sum with Tree parsing | Interview DSA Learning](https://obrutus.blogspot.com/2025/10/maximum-path-sum-with-tree-parsing.html)
-- [Maximum path sum with Tree parsing | Interview DSA Learning](https://www.youtube.com/watch?v=0IH5KQxd1hU)
 <!-- BLOG-POST-LIST:END -->
