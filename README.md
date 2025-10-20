@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [K closest Values | DSA Coding](https://obrutus.blogspot.com/2025/10/k-closest-values-dsa-coding.html)
+- [K closest Values | DSA Coding](https://www.youtube.com/watch?v=-84x2UXvZyc)
+- [&quot;I Rebuilt My API in Go — It Got 15x Faster Instantly&quot; Really? Is that f...](https://obrutus.blogspot.com/2025/10/i-rebuilt-my-api-in-go-it-got-15x.html)
+- [&quot;I Rebuilt My API in Go — It Got 15x Faster Instantly&quot; Really? Is that for real?](https://www.youtube.com/watch?v=kqRNVQzjdAQ)
 - [Median of BST| DSA Coding](https://obrutus.blogspot.com/2025/10/median-of-bst-dsa-coding.html)
-- [Median of BST| DSA Coding](https://www.youtube.com/watch?v=rOEqgoDO1YA)
-- [BST to greater sum tree | DSA Coding](https://obrutus.blogspot.com/2025/10/bst-to-greater-sum-tree-dsa-coding.html)
-- [BST to greater sum tree | DSA Coding](https://www.youtube.com/watch?v=4kimy_ElvaU)
-- [Remove BST keys outside given range | DSA Coding](https://obrutus.blogspot.com/2025/10/remove-bst-keys-outside-given-range-dsa.html)
 <!-- BLOG-POST-LIST:END -->
