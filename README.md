@@ -137,9 +137,9 @@ More details
 [![Aniket Vaishnav Medium](https://github-readme-medium.vercel.app/?username=obrutus&limit=2&text=green)](https://medium.com/@obrutus)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ways To Tile A Floor | DSA Coding](https://obrutus.blogspot.com/2025/11/ways-to-tile-floor-dsa-coding.html)
+- [Ways To Tile A Floor | DSA Coding](https://www.youtube.com/watch?v=RqAqM5Z0KwI)
 - [Distance of nearest cell having 1 | DSA Coding](https://obrutus.blogspot.com/2025/10/distance-of-nearest-cell-having-1-dsa.html)
 - [Distance of nearest cell having 1 | DSA Coding](https://www.youtube.com/watch?v=0Qa2Xje5QQ8)
 - [Nearly sorted | DSA Coding](https://obrutus.blogspot.com/2025/10/nearly-sorted-dsa-coding.html)
-- [Nearly sorted | DSA Coding](https://www.youtube.com/watch?v=q_tFYpn5KJc)
-- [K closest Values | DSA Coding](https://obrutus.blogspot.com/2025/10/k-closest-values-dsa-coding.html)
 <!-- BLOG-POST-LIST:END -->
