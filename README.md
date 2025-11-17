@@ -66,9 +66,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
-- [Ways To Tile A Floor | DSA Coding](https://obrutus.blogspot.com/2025/11/ways-to-tile-floor-dsa-coding.html)
 - [Ways To Tile A Floor | DSA Coding](https://www.youtube.com/watch?v=RqAqM5Z0KwI)
-- [Distance of nearest cell having 1 | DSA Coding](https://obrutus.blogspot.com/2025/10/distance-of-nearest-cell-having-1-dsa.html)
 - [Distance of nearest cell having 1 | DSA Coding](https://www.youtube.com/watch?v=0Qa2Xje5QQ8)
-- [Nearly sorted | DSA Coding](https://obrutus.blogspot.com/2025/10/nearly-sorted-dsa-coding.html)
+- [Nearly sorted | DSA Coding](https://www.youtube.com/watch?v=q_tFYpn5KJc)
+- [K closest Values | DSA Coding](https://www.youtube.com/watch?v=-84x2UXvZyc)
+- [&quot;I Rebuilt My API in Go — It Got 15x Faster Instantly&quot; Really? Is that for real?](https://www.youtube.com/watch?v=kqRNVQzjdAQ)
 <!-- BLOG-POST-LIST:END -->
