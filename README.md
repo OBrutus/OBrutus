@@ -44,7 +44,7 @@
 </th>
 <th width="60%">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=obrutus&row=2&column=3&theme=onedark&margin-w=15&margin-h=15)](https://github.com/obrutus)
+[![trophy](https://stable-github-profile-trophy.vercel.app/?username=obrutus&row=2&column=3&theme=onedark&margin-w=15&margin-h=15)](https://github.com/obrutus)
 
 </th>
 </tr>
