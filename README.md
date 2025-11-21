@@ -18,9 +18,7 @@
   [![Aniket Vaishnav StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9928212&theme=dark)](https://stackoverflow.com/users/9928212/obrutus) ![Self hosted readme stats](https://obrutus-github-stats.vercel.app/api?username=OBrutus&bg_color=0000&title_color=ff0&text_color=ABC&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_owner=true)
 
 
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obrutus&theme=dracula) ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=obrutus&theme=dracula&utcOffset=5.30)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrutus&layout=compact&theme=radical&langs_count=6&hide=Rich Text Format,HTML,JavaScript" alt="obrutus"/>
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obrutus&theme=dracula) ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=obrutus&theme=dracula&utcOffset=5.30) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrutus&layout=compact&theme=radical&langs_count=6&hide=Rich%20Text%20Format,HTML,JavaScript" alt="obrutus"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=obrutus&theme=radical" alt="obrutus" />
 
