@@ -1,6 +1,6 @@
 ![👨‍💻 Hey I am, Aniket Vaishnav 👨‍💻](./res/intro-header.png)
 
-## About Me:
+## 👨🏻‍💻 About Me:
 
 + A passionate Software Engineer, from India 🇮🇳
 + Looking to collaborate with other developers
@@ -25,7 +25,7 @@
 </details>
 
 
-## Skills: 
+## 🛠️ Skills: 
 <table width="1200%">
 <tr>
 <th>
@@ -48,7 +48,7 @@
 </tr>
 </table>
 
-## Reach Me:
+## 🤝 Reach Me:
 🤝🏻 Let's Connect and Collaborate! 🤝🏻
 
 [![Connect](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/9928212/obrutus) [![Connect](https://skillicons.dev/icons?i=devto)](https://dev.to/obrutus) [![Connect](./res/medium_icon.png)](https://medium.com/@obrutus/) [![Connect](https://skillicons.dev/icons?i=vercel)](https://aniketvaishnav.vercel.app/) [![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aniket-vaishnav/) [![Connect](https://skillicons.dev/icons?i=github)](https://www.github.com/OBrutus) [![Connect](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/aniket_vaishnav7/)
@@ -60,7 +60,7 @@
 [comment]: <> (<img src="https://github-readme-streak-stats.herokuapp.com/?user=obrutus&" alt="obrutus" />)
 
 
-## Latest posts
+## 📢 Latest posts
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
