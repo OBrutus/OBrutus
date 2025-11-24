@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Find Minimum Operations to Make All Elements Divisible by Three | Leetcode](https://www.youtube.com/watch?v=JghQz-zqW-M)
 - [Ways To Tile A Floor | DSA Coding](https://www.youtube.com/watch?v=RqAqM5Z0KwI)
 - [Distance of nearest cell having 1 | DSA Coding](https://www.youtube.com/watch?v=0Qa2Xje5QQ8)
 - [Nearly sorted | DSA Coding](https://www.youtube.com/watch?v=q_tFYpn5KJc)
 - [K closest Values | DSA Coding](https://www.youtube.com/watch?v=-84x2UXvZyc)
-- [&quot;I Rebuilt My API in Go — It Got 15x Faster Instantly&quot; Really? Is that for real?](https://www.youtube.com/watch?v=kqRNVQzjdAQ)
 <!-- BLOG-POST-LIST:END -->
