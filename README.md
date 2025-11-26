@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [1018. Binary Prefix Divisible By 5 | Leetcode DSA](https://www.youtube.com/watch?v=99SKqrPM-kg)
+- [Leetcode solution 1015. Smallest Integer Divisible by K1015. Smallest Integer Divisible by K](https://www.youtube.com/watch?v=eahnkqx53So)
 - [Game Of Xor | Geeks for geeks](https://www.youtube.com/watch?v=xPdf9HHgUL0)
 - [Find Minimum Operations to Make All Elements Divisible by Three | Leetcode](https://www.youtube.com/watch?v=JghQz-zqW-M)
 - [Ways To Tile A Floor | DSA Coding](https://www.youtube.com/watch?v=RqAqM5Z0KwI)
-- [Distance of nearest cell having 1 | DSA Coding](https://www.youtube.com/watch?v=0Qa2Xje5QQ8)
-- [Nearly sorted | DSA Coding](https://www.youtube.com/watch?v=q_tFYpn5KJc)
 <!-- BLOG-POST-LIST:END -->
