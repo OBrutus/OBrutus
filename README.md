@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Subset XOR | Explained and Solved Interview Coding](https://www.youtube.com/watch?v=zdW1U6h-_Uw)
 - [AND In Range | Bit magic](https://www.youtube.com/watch?v=7thv1dZQRmU)
 - [1018. Binary Prefix Divisible By 5 | Leetcode DSA](https://www.youtube.com/watch?v=99SKqrPM-kg)
 - [Leetcode solution 1015. Smallest Integer Divisible by K1015. Smallest Integer Divisible by K](https://www.youtube.com/watch?v=eahnkqx53So)
 - [Game Of Xor | Geeks for geeks](https://www.youtube.com/watch?v=xPdf9HHgUL0)
-- [Find Minimum Operations to Make All Elements Divisible by Three | Leetcode 3190](https://www.youtube.com/watch?v=JghQz-zqW-M)
 <!-- BLOG-POST-LIST:END -->
