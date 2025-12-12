@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Transpose of Matrix solution](https://www.youtube.com/watch?v=dId6YD2D0DI)
+- [Construct an array from its pair-sum array](https://www.youtube.com/watch?v=0MzFL6aT1-8)
 - [Count Partitions with Even Sum Difference Leetcode 3432](https://www.youtube.com/watch?v=52DM8n8kZ_I)
 - [Subset XOR | Explained and Solved Interview Coding](https://www.youtube.com/watch?v=zdW1U6h-_Uw)
 - [AND In Range | Bit magic](https://www.youtube.com/watch?v=7thv1dZQRmU)
-- [1018. Binary Prefix Divisible By 5 | Leetcode DSA](https://www.youtube.com/watch?v=99SKqrPM-kg)
-- [Leetcode solution 1015. Smallest Integer Divisible by K1015. Smallest Integer Divisible by K](https://www.youtube.com/watch?v=eahnkqx53So)
 <!-- BLOG-POST-LIST:END -->
