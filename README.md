@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Search insert position of K in a sorted array](https://www.youtube.com/watch?v=CS6HeEu9vHk)
 - [Words and Letters: Take your side](https://dev.to/obrutus/words-and-letters-take-your-side-2lfk)
 - [Design Patterns: The First Step to Maintainable Code](https://medium.com/@obrutus/design-patterns-the-first-step-to-maintainable-code-22c36c92596d?source=rss-b9bb2cd4a217------2)
 - [Sort in Specific Order | Geeks for Geeks](https://www.youtube.com/watch?v=x630RAfJovM)
 - [Overlapping Intervals](https://www.youtube.com/watch?v=Uj0U7ZD1t9Y)
-- [Number of Smooth Descent Period of Stack | Leetcode 2110](https://www.youtube.com/watch?v=7nxCvVceP3g)
 <!-- BLOG-POST-LIST:END -->
