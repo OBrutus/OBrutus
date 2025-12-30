@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [236 A Boy or Girl Codeforces Made Easy and Solved](https://www.youtube.com/watch?v=URSFP4DOITc)
+- [K th element of two Arrays](https://www.youtube.com/watch?v=87S5xSjzwKs)
 - [Minimum time to fulfil all orders | GFG Practice](https://www.youtube.com/watch?v=iIHpGY7mXSY)
 - [50 A - Domino piling Codeforces Made Easy and Solved](https://www.youtube.com/watch?v=exiTixvA5eE)
 - [Kth smallest element in a Matrix](https://www.youtube.com/watch?v=4NJNhLaS8-w)
-- [Minimum Penalty for a Shop | Leetcode 2483](https://www.youtube.com/watch?v=6H3dnD5XiwM)
-- [Kth Missing Positive Number in a Sorted Array](https://www.youtube.com/watch?v=jG9JIgMfvyE)
 <!-- BLOG-POST-LIST:END -->
