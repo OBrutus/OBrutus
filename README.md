@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
-- [Check if Linked List is Palindrome ? | no Extra space](https://www.youtube.com/watch?v=co78-s35teU)
-- [Codeforces 978B | File Name Solution | String Manipulation for Beginners](https://www.youtube.com/watch?v=9Zwpn7Lnrjs)
-- [236 A Boy or Girl Codeforces Made Easy and Solved](https://www.youtube.com/watch?v=URSFP4DOITc)
-- [K th element of two Arrays](https://www.youtube.com/watch?v=87S5xSjzwKs)
-- [Minimum time to fulfil all orders | GFG Practice](https://www.youtube.com/watch?v=iIHpGY7mXSY)
+- [OO Analysis and Design](https://dev.to/obrutus/oo-analysis-and-design-1h5g)
+- [What is UML?](https://dev.to/obrutus/what-is-uml-29p4)
+- [Types of UML Diagrams](https://dev.to/obrutus/types-of-uml-diagrams-40o8)
+- [The four principles of object-oriented programming](https://dev.to/obrutus/the-four-principles-of-object-oriented-programming-mcc)
+- [which is Best Coding plarform for you? Let&#39;s Ask AI](https://www.youtube.com/watch?v=6cvmR9Swk1g)
 <!-- BLOG-POST-LIST:END -->
