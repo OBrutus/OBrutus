@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
-- [OO Analysis and Design](https://dev.to/obrutus/oo-analysis-and-design-1h5g)
-- [What is UML?](https://dev.to/obrutus/what-is-uml-29p4)
-- [Types of UML Diagrams](https://dev.to/obrutus/types-of-uml-diagrams-40o8)
-- [The four principles of object-oriented programming](https://dev.to/obrutus/the-four-principles-of-object-oriented-programming-mcc)
-- [which is Best Coding plarform for you? Let&#39;s Ask AI](https://www.youtube.com/watch?v=6cvmR9Swk1g)
+- [Use Case Diagram](https://dev.to/obrutus/use-case-diagram-1m5a)
+- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
+- [Sequence diagram](https://dev.to/obrutus/sequence-diagram-3nk8)
+- [Activity Diagram](https://dev.to/obrutus/activity-diagram-1obc)
+- [Sort 0s, 1s and 2s | No extra space works with streaming](https://www.youtube.com/watch?v=mUbEMBq0VUQ)
 <!-- BLOG-POST-LIST:END -->
