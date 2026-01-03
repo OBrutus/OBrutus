@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [961 N Repeated Element in Size 2N Array | 3 optimal solutions](https://www.youtube.com/watch?v=Wx6YyLkGZig)
 - [Use Case Diagram](https://dev.to/obrutus/use-case-diagram-1m5a)
 - [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
 - [Sequence diagram](https://dev.to/obrutus/sequence-diagram-3nk8)
 - [Activity Diagram](https://dev.to/obrutus/activity-diagram-1obc)
-- [Sort 0s, 1s and 2s | No extra space works with streaming](https://www.youtube.com/watch?v=mUbEMBq0VUQ)
 <!-- BLOG-POST-LIST:END -->
