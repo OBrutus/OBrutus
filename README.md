@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [B - Taisia and Dice Codeforces Made Easy and Solved](https://www.youtube.com/watch?v=Rx6sd3IppOc)
+- [Flattening a Linked List GFG](https://www.youtube.com/watch?v=fBhfieakkC0)
+- [281A Word Capitalization | Codeforces Made Easy](https://www.youtube.com/watch?v=egDKNjgvVWw)
 - [961 N Repeated Element in Size 2N Array | 3 optimal solutions](https://www.youtube.com/watch?v=Wx6YyLkGZig)
 - [Use Case Diagram](https://dev.to/obrutus/use-case-diagram-1m5a)
-- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
-- [Sequence diagram](https://dev.to/obrutus/sequence-diagram-3nk8)
-- [Activity Diagram](https://dev.to/obrutus/activity-diagram-1obc)
 <!-- BLOG-POST-LIST:END -->
