@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [What If the OOD Interview Doesn’t Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l)
+- [Max Sum Subarray of size K](https://www.youtube.com/watch?v=OVi2JCsoR6s)
+- [Four Divisors | Leetcode !39O](https://www.youtube.com/watch?v=ahFu2fJtyd8)
 - [B - Taisia and Dice Codeforces Made Easy and Solved](https://www.youtube.com/watch?v=Rx6sd3IppOc)
 - [Flattening a Linked List GFG](https://www.youtube.com/watch?v=fBhfieakkC0)
-- [281A Word Capitalization | Codeforces Made Easy](https://www.youtube.com/watch?v=egDKNjgvVWw)
-- [961 N Repeated Element in Size 2N Array | 3 optimal solutions](https://www.youtube.com/watch?v=Wx6YyLkGZig)
-- [Use Case Diagram](https://dev.to/obrutus/use-case-diagram-1m5a)
 <!-- BLOG-POST-LIST:END -->
