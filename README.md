@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Max X0R Subarray of size K | Simply Explained +Solved](https://www.youtube.com/watch?v=mZ9a21gXYEE)
+- [A Elephant 6!7 Codeforces Made Easy and Solved](https://www.youtube.com/watch?v=9qW5MZGVejc)
 - [What If the OOD Interview Doesn’t Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l)
 - [Max Sum Subarray of size K](https://www.youtube.com/watch?v=OVi2JCsoR6s)
 - [Four Divisors | Leetcode !39O](https://www.youtube.com/watch?v=ahFu2fJtyd8)
-- [B - Taisia and Dice Codeforces Made Easy and Solved](https://www.youtube.com/watch?v=Rx6sd3IppOc)
-- [Flattening a Linked List GFG](https://www.youtube.com/watch?v=fBhfieakkC0)
 <!-- BLOG-POST-LIST:END -->
