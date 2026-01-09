@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Count Subarray with k odds with 2 Most optimal solution](https://www.youtube.com/watch?v=aKONoUNBXr8)
 - [Count distinct elements in every window](https://www.youtube.com/watch?v=uCCQbyTyTZs)
 - [Max X0R Subarray of size K | Simply Explained +Solved](https://www.youtube.com/watch?v=mZ9a21gXYEE)
 - [A Elephant 6!7 Codeforces Made Easy and Solved](https://www.youtube.com/watch?v=9qW5MZGVejc)
 - [What If the OOD Interview Doesn’t Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l)
-- [Max Sum Subarray of size K](https://www.youtube.com/watch?v=OVi2JCsoR6s)
 <!-- BLOG-POST-LIST:END -->
