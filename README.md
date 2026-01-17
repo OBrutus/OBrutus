@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Minimum Number of Workers. Explained and Solved](https://www.youtube.com/watch?v=kcDLSqmkRsM)
 - [Substrings with K Distinct in 152 seconds](https://www.youtube.com/watch?v=UOV42D30s4s)
 - [Subarrays With At Most K Distinct Integers](https://www.youtube.com/watch?v=ikF1WeXHMMA)
 - [Count Subarray with k odds with 2 Most optimal solution](https://www.youtube.com/watch?v=aKONoUNBXr8)
 - [Count distinct elements in every window](https://www.youtube.com/watch?v=uCCQbyTyTZs)
-- [Max X0R Subarray of size K | Simply Explained +Solved](https://www.youtube.com/watch?v=mZ9a21gXYEE)
 <!-- BLOG-POST-LIST:END -->
