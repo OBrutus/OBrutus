@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Implement UNDO &amp; REDO. Explained and Solved simplest design.](https://www.youtube.com/watch?v=mwlq24Mphvk)
 - [Remove K Digits. POTD GfG Explained and Solved](https://www.youtube.com/watch?v=a5IbCLC1ibM)
 - [Next element with greater frequency. Explained and Solved](https://www.youtube.com/watch?v=ROAIYsUzd90)
 - [Minimum Number of Workers. Explained and Solved](https://www.youtube.com/watch?v=kcDLSqmkRsM)
 - [Substrings with K Distinct in 152 seconds](https://www.youtube.com/watch?v=UOV42D30s4s)
-- [Subarrays With At Most K Distinct Integers](https://www.youtube.com/watch?v=ikF1WeXHMMA)
 <!-- BLOG-POST-LIST:END -->
