@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sum of subarray ranges. Explained and Solved PoTD gfg](https://www.youtube.com/watch?v=j99Dc14OY38)
 - [Stock span problem. POTD gfg. 2 approaches](https://www.youtube.com/watch?v=xSLukNHqB_E)
 - [Implement UNDO &amp; REDO. Explained and Solved simplest design.](https://www.youtube.com/watch?v=mwlq24Mphvk)
 - [Remove K Digits. POTD GfG Explained and Solved](https://www.youtube.com/watch?v=a5IbCLC1ibM)
 - [Next element with greater frequency. Explained and Solved](https://www.youtube.com/watch?v=ROAIYsUzd90)
-- [Minimum Number of Workers. Explained and Solved](https://www.youtube.com/watch?v=kcDLSqmkRsM)
 <!-- BLOG-POST-LIST:END -->
