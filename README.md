@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Find Smallest Letter Greater Than Target | LeetCode 744](https://www.youtube.com/watch?v=r_OXaGsGIp4)
 - [Word Search &amp; Why is it favourite of many interviewers?](https://www.youtube.com/watch?v=WSXlxtKcLO0)
 - [1200  Minimum Absolute Difference](https://www.youtube.com/watch?v=wmoQ6-WtWS0)
 - [Generate Permutations of an array](https://www.youtube.com/watch?v=YnKaRgGDd0g)
 - [Number of Valid Parentheses. PoTD simply solved and explained](https://www.youtube.com/watch?v=AtFWThboi5k)
-- [Sum of subarray ranges. Explained and Solved PoTD gfg](https://www.youtube.com/watch?v=j99Dc14OY38)
 <!-- BLOG-POST-LIST:END -->
