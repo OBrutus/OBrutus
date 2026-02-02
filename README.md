@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Only Need the Smallest 3 Values! | LeetCode 3033 Solution Explained](https://www.youtube.com/watch?v=NRGNILgZsIY)
+- [K Sized Subarray Maximum. Easy Explained and Solved, a few step.](https://www.youtube.com/watch?v=T0Gb8GHnmFY)
 - [Find Smallest Letter Greater Than Target | LeetCode 744](https://www.youtube.com/watch?v=r_OXaGsGIp4)
 - [Word Search &amp; Why is it favourite of many interviewers?](https://www.youtube.com/watch?v=WSXlxtKcLO0)
 - [1200  Minimum Absolute Difference](https://www.youtube.com/watch?v=wmoQ6-WtWS0)
-- [Generate Permutations of an array](https://www.youtube.com/watch?v=YnKaRgGDd0g)
-- [Number of Valid Parentheses. PoTD simply solved and explained](https://www.youtube.com/watch?v=AtFWThboi5k)
 <!-- BLOG-POST-LIST:END -->
