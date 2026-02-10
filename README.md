@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
-- [What If the OOD Interview Doesn’t Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l)
-- [Use Case Diagram](https://dev.to/obrutus/use-case-diagram-1m5a)
-- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
-- [Sequence diagram](https://dev.to/obrutus/sequence-diagram-3nk8)
-- [Activity Diagram](https://dev.to/obrutus/activity-diagram-1obc)
+- [LeetCode 3379: Transformed Array | Circular Array Problems | Daily Coding Challenge](https://www.youtube.com/watch?v=ayymZyX9Ge0)
+- [Maximize Number of 1&#39;s. Done efficinetly in clean 2 step process.](https://www.youtube.com/watch?v=cr5jkTC83pE)
+- [Stock Buy and Sell – Multiple Transactions | GeeksforGeeks POTD | Interview Approach](https://www.youtube.com/watch?v=Wu4NBn67YxM)
+- [Why You Only Need the Smallest 3 Values! | LeetCode 3033 Solution Explained](https://www.youtube.com/watch?v=NRGNILgZsIY)
+- [K Sized Subarray Maximum. Easy Explained and Solved, a few step.](https://www.youtube.com/watch?v=T0Gb8GHnmFY)
 <!-- BLOG-POST-LIST:END -->
