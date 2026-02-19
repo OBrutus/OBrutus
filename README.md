@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform Day Zero: Your Infrastructure as Code Journey Begins](https://medium.com/@obrutus/terraform-day-zero-your-infrastructure-as-code-journey-begins-360b5d21c2c0?source=rss-b9bb2cd4a217------2)
 - [Attend All Meetings | Meeting Rooms I | GeeksforGeeks POTD | Interval Sorting](https://www.youtube.com/watch?v=1u6t7rJSV0Q)
 - [LeetCode 3379: Transformed Array | Circular Array Problems | Daily Coding Challenge](https://www.youtube.com/watch?v=ayymZyX9Ge0)
 - [Maximize Number of 1&#39;s. Done efficinetly in clean 2 step process.](https://www.youtube.com/watch?v=cr5jkTC83pE)
 - [Stock Buy and Sell – Multiple Transactions | GeeksforGeeks POTD | Interview Approach](https://www.youtube.com/watch?v=Wu4NBn67YxM)
-- [Why You Only Need the Smallest 3 Values! | LeetCode 3033 Solution Explained](https://www.youtube.com/watch?v=NRGNILgZsIY)
 <!-- BLOG-POST-LIST:END -->
