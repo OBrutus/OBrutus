@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
-- [Count Subarrays with given XOR](https://www.youtube.com/watch?v=P_T9c8xIIZg)
 - [Terraform Day Zero: Your Infrastructure as Code Journey Begins](https://medium.com/@obrutus/terraform-day-zero-your-infrastructure-as-code-journey-begins-360b5d21c2c0?source=rss-b9bb2cd4a217------2)
-- [Attend All Meetings | Meeting Rooms I | GeeksforGeeks POTD | Interval Sorting](https://www.youtube.com/watch?v=1u6t7rJSV0Q)
-- [LeetCode 3379: Transformed Array | Circular Array Problems | Daily Coding Challenge](https://www.youtube.com/watch?v=ayymZyX9Ge0)
-- [Maximize Number of 1&#39;s. Done efficinetly in clean 2 step process.](https://www.youtube.com/watch?v=cr5jkTC83pE)
+- [What If the OOD Interview Doesn’t Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l)
+- [Use Case Diagram](https://dev.to/obrutus/use-case-diagram-1m5a)
+- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
+- [Sequence diagram](https://dev.to/obrutus/sequence-diagram-3nk8)
 <!-- BLOG-POST-LIST:END -->
