@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [1689  Partitioning Into Minimum Number Of Deci Binary Numbers](https://www.youtube.com/watch?v=ezlj6_FdijY)
+- [Move All Zeroes to End. 2 step solution.](https://www.youtube.com/watch?v=muCrVeOp4o4)
+- [Count Subarrays with given XOR](https://www.youtube.com/watch?v=P_T9c8xIIZg)
 - [Terraform Day Zero: Your Infrastructure as Code Journey Begins](https://medium.com/@obrutus/terraform-day-zero-your-infrastructure-as-code-journey-begins-360b5d21c2c0?source=rss-b9bb2cd4a217------2)
-- [What If the OOD Interview Doesn’t Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l)
-- [Use Case Diagram](https://dev.to/obrutus/use-case-diagram-1m5a)
-- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
-- [Sequence diagram](https://dev.to/obrutus/sequence-diagram-3nk8)
+- [Attend All Meetings | Meeting Rooms I | GeeksforGeeks POTD | Interval Sorting](https://www.youtube.com/watch?v=1u6t7rJSV0Q)
 <!-- BLOG-POST-LIST:END -->
