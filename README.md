@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Day Zero: Your Infrastructure as Code Journey Begins](https://medium.com/@obrutus/terraform-day-zero-your-infrastructure-as-code-journey-begins-360b5d21c2c0?source=rss-b9bb2cd4a217------2)
-- [What If the OOD Interview Doesn’t Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l)
-- [Use Case Diagram](https://dev.to/obrutus/use-case-diagram-1m5a)
-- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
-- [Sequence diagram](https://dev.to/obrutus/sequence-diagram-3nk8)
+- [Contains Duplicate - LeetCode 217 | 4 Approaches Explained + Accepted Solution | DSA Interview Prep](https://www.youtube.com/watch?v=to8NbdEwxKY)
+- [Rotten Oranges. Decoded why so many times asked?](https://www.youtube.com/watch?v=ktGa6pvsSX8)
+- [Longest Substring Without Repeating Characters | Leetcode 3](https://www.youtube.com/watch?v=r7EotNjoTQM)
+- [Largest number in one swap. Two solution explained](https://www.youtube.com/watch?v=Bps4Z6DdHFY)
+- [Check if Binary String Has at Most One Segment of Ones. 1784 Leetcode](https://www.youtube.com/watch?v=Jld4BufPdas)
 <!-- BLOG-POST-LIST:END -->
