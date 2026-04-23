@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Day Zero: Your Infrastructure as Code Journey Begins](https://medium.com/@obrutus/terraform-day-zero-your-infrastructure-as-code-journey-begins-360b5d21c2c0?source=rss-b9bb2cd4a217------2)
-- [What If the OOD Interview Doesn’t Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l)
-- [Use Case Diagram](https://dev.to/obrutus/use-case-diagram-1m5a)
-- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
-- [Sequence diagram](https://dev.to/obrutus/sequence-diagram-3nk8)
+- [Mirror Distance of an Integer | Leetcode 3783](https://www.youtube.com/watch?v=jPW9SebJ4uo)
+- [Anagram Palindrome. Basic String Understanding and Implementation](https://www.youtube.com/watch?v=cuHbywND5Ms)
+- [URLify a given string. Basic coding starts from one line solution](https://www.youtube.com/watch?v=f6XKDXNaNQg)
+- [Stripe System Design Interview: Staff Engineer vs Senior Software Engineer](https://www.youtube.com/watch?v=fhKEx-mWclw)
+- [Product of Array Except Self. Leetcode 238 part of Blind 75](https://www.youtube.com/watch?v=R31AOywTgzA)
 <!-- BLOG-POST-LIST:END -->
