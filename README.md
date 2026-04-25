@@ -64,9 +64,9 @@
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Day Zero: Your Infrastructure as Code Journey Begins](https://medium.com/@obrutus/terraform-day-zero-your-infrastructure-as-code-journey-begins-360b5d21c2c0?source=rss-b9bb2cd4a217------2)
-- [What If the OOD Interview Doesn’t Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l)
-- [Use Case Diagram](https://dev.to/obrutus/use-case-diagram-1m5a)
-- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
-- [Sequence diagram](https://dev.to/obrutus/sequence-diagram-3nk8)
+- [Furthest Point From Origin. Leetcode 2833](https://www.youtube.com/watch?v=eX_XLxQPCew)
+- [Buildings with Sunlight. POTD GFG.](https://www.youtube.com/watch?v=WgDLEPYvjaI)
+- [Young Physicist | Solve vector Equiliibrium CodeForces 69 A Easy](https://www.youtube.com/watch?v=AO0vTKyMC2E)
+- [Two Equal Sum Subarrays.](https://www.youtube.com/watch?v=D5KQJqI7iHI)
+- [Mirror Distance of an Integer | Leetcode 3783](https://www.youtube.com/watch?v=jPW9SebJ4uo)
 <!-- BLOG-POST-LIST:END -->
