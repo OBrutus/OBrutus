@@ -1,72 +1,64 @@
-![👨‍💻 Hey I am, Aniket Vaishnav 👨‍💻](./res/intro-header.png)
+# Aniket Vaishnav
 
-## 👨🏻‍💻 About Me:
+**Senior Software Engineer · AI/ML · GenAI · Distributed Systems · Cloud**
 
-+ A passionate Software Engineer, from India 🇮🇳
-+ Looking to collaborate with other developers
-+ Fun fact : 
-  * Vim :heavy_plus_sign: VS Code :heavy_plus_sign: [Good Music](https://open.spotify.com/playlist/6EgxPLBCMCCkdVIeXLmOZc?si=a09e56780b9245d9) = :brown_heart:.
+I build systems at the intersection of large-scale backend infrastructure and applied machine learning — from LLM-powered workflows and GenAI integrations to the distributed architectures that support them in production. Currently in travel-tech, building multi-vendor aggregation platforms and high-throughput API systems that have to stay correct at scale.
 
-![Alt text](./res/coding-focus-image.gif)
+I think carefully about the tradeoffs that compound: model quality vs. serving cost, flexibility vs. operational complexity, latency vs. correctness.
 
-<!-- Github Stats -->
-<details> 
-  <summary><h2>📊 Github Stats</h2></summary>
+---
 
-  ![Aniket's Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OBrutus&theme=transparent)
+## Stack
 
-  [![Aniket Vaishnav StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9928212&theme=dark)](https://stackoverflow.com/users/9928212/obrutus) ![Self hosted readme stats](https://github-stats.vercel.app/api?username=OBrutus&bg_color=0000&title_color=ff0&text_color=ABC&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_owner=true)
+**Primary languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obrutus&theme=dracula) ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=obrutus&theme=dracula&utcOffset=5.30) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrutus&layout=compact&theme=radical&langs_count=6&hide=Rich%20Text%20Format,HTML,JavaScript" alt="obrutus"/>
+**AI/ML & GenAI**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=obrutus&theme=radical" alt="obrutus" />
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-</details>
+**Backend & infrastructure**
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-## 🛠️ Skills: 
-<table width="1200%">
-<tr>
-<th>
+**Distributed systems & ML patterns**
 
-[![My Skills](https://skillicons.dev/icons?i=java,linux,aws,go)](https://medium.com/@obrutus)
+Saga · Circuit Breaker · Fan-out · Event-driven design · RAG · Fine-tuning · Model serving · Feature pipelines
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,nodejs,next,materialui)](https://medium.com/@obrutus)
+---
 
-[![My Skills](https://skillicons.dev/icons?i=dynamodb,mysql,mongo,firebase)](https://medium.com/@obrutus)
+## Writing
 
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow)](https://medium.com/@obrutus)
+I write to sharpen thinking — on systems design, ML engineering tradeoffs, and things worth understanding deeply.
 
-[![My Skills](https://skillicons.dev/icons?i=idea,neovim,vscode)](https://medium.com/@obrutus)
-</th>
-<th width="60%">
+- [Terraform Day Zero: Your Infrastructure as Code Journey Begins](https://medium.com/@obrutus/terraform-day-zero-your-infrastructure-as-code-journey-begins-360b5d21c2c0) — Medium
+- [What If the OOD Interview Doesn't Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l) — Dev.to
+- [UML Series: Sequence, Class & Use Case Diagrams](https://dev.to/obrutus) — Dev.to
 
-[![trophy](https://stable-github-profile-trophy.vercel.app/?username=obrutus&row=2&column=3&theme=onedark&margin-w=15&margin-h=15)](https://github.com/obrutus)
+---
 
-</th>
-</tr>
-</table>
+## Teaching
 
-## 🤝 Reach Me:
-🤝🏻 Let's Connect and Collaborate! 🤝🏻
+I run [**OBrutus**](https://youtube.com/@OBrutus) — a YouTube channel on competitive programming, algorithmic problem-solving, and system design. The emphasis is on building mental models for *why* a solution works, not memorizing patterns.
 
-[![Connect](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/9928212/obrutus) [![Connect](https://skillicons.dev/icons?i=devto)](https://dev.to/obrutus) [![Connect](./res/medium_icon.png)](https://medium.com/@obrutus/) [![Connect](https://skillicons.dev/icons?i=vercel)](https://aniketvaishnav.vercel.app/) [![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aniket-vaishnav/) [![Connect](https://skillicons.dev/icons?i=github)](https://www.github.com/OBrutus) [![Connect](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/aniket_vaishnav7/)
+---
 
-[![OBrutus StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/9928212)](https://stackoverflow.com/users/9928212/obrutus)
+## Research & Open Source
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/OBrutus/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/obrutus) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8609-1094) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9928212/obrutus)
 
-[comment]: <> (<img src="https://github-readme-streak-stats.herokuapp.com/?user=obrutus&" alt="obrutus" />)
+---
 
+## Connect
 
-## 📢 Latest posts
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-vaishnav/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://aniketvaishnav.vercel.app/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@OBrutus) [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@obrutus)
+
+---
+
+## Latest
+
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximum Product Subarray. Leetcode 152. Modified Kadane&#39;s Algorithm](https://www.youtube.com/watch?v=Y98sxHNqhrQ)
-- [Sort by Set Bit Count. POTD GFG. Handle like PRO if interviewer considered you MID](https://www.youtube.com/watch?v=e5ZuC1MLTAE)
-- [Position of the Set Bit.  GFG POTD.](https://www.youtube.com/watch?v=N0TZx834n2k)
-- [Rotate Function. Leetcode 396. Dynamic Programming but better.](https://www.youtube.com/watch?v=EUbHyvTVNQ4)
-- [Kth Largest in a Stream. GFG POTD Easiest Solution.](https://www.youtube.com/watch?v=9ArsPnQcjz0)
 <!-- BLOG-POST-LIST:END -->
