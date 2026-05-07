@@ -61,9 +61,9 @@ I run [**OBrutus**](https://youtube.com/@OBrutus) — a YouTube channel on compe
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
-- [Palindrome Binary. POTD GFG. 2 Ways to solve](https://www.youtube.com/watch?v=H9JBCpZnFlw)
-- [Maximum Product Subarray. Leetcode 152. Modified Kadane&#39;s Algorithm](https://www.youtube.com/watch?v=Y98sxHNqhrQ)
-- [Sort by Set Bit Count. POTD GFG. Handle like PRO if interviewer considered you MID](https://www.youtube.com/watch?v=e5ZuC1MLTAE)
-- [Position of the Set Bit.  GFG POTD.](https://www.youtube.com/watch?v=N0TZx834n2k)
-- [Rotate Function. Leetcode 396. Dynamic Programming but better.](https://www.youtube.com/watch?v=EUbHyvTVNQ4)
+- [Terraform Day Zero: Your Infrastructure as Code Journey Begins](https://medium.com/@obrutus/terraform-day-zero-your-infrastructure-as-code-journey-begins-360b5d21c2c0?source=rss-b9bb2cd4a217------2)
+- [What If the OOD Interview Doesn’t Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l)
+- [Use Case Diagram](https://dev.to/obrutus/use-case-diagram-1m5a)
+- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
+- [Sequence diagram](https://dev.to/obrutus/sequence-diagram-3nk8)
 <!-- BLOG-POST-LIST:END -->
