@@ -61,9 +61,9 @@ I run [**OBrutus**](https://youtube.com/@OBrutus) — a YouTube channel on compe
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Interviews in 2026. World of AI and Humans](https://www.youtube.com/watch?v=9vn-mfV4wSo)
 - [Check if Array is Good. No space no extra loop simple &amp; elegant. Leetcode 2784.](https://www.youtube.com/watch?v=YOg4dOebilw)
 - [Mother Vertex. Graph Algo made Easy. POTD](https://www.youtube.com/watch?v=0uNQk8FCnJM)
 - [A  Football | Strings implementation problem and solution](https://www.youtube.com/watch?v=UiOPy8gECrk)
 - [Check if subtree. POTD GFG.](https://www.youtube.com/watch?v=xOS3lxbpnCI)
-- [Size of Binary Tree. POTD GFG.](https://www.youtube.com/watch?v=9aEUavrWLGA)
 <!-- BLOG-POST-LIST:END -->
