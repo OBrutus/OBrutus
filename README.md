@@ -61,9 +61,9 @@ I run [**OBrutus**](https://youtube.com/@OBrutus) — a YouTube channel on compe
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
-- [Interviews in 2026. World of AI and Humans](https://www.youtube.com/watch?v=9vn-mfV4wSo)
-- [Check if Array is Good. No space no extra loop simple &amp; elegant. Leetcode 2784.](https://www.youtube.com/watch?v=YOg4dOebilw)
-- [Mother Vertex. Graph Algo made Easy. POTD](https://www.youtube.com/watch?v=0uNQk8FCnJM)
-- [A  Football | Strings implementation problem and solution](https://www.youtube.com/watch?v=UiOPy8gECrk)
-- [Check if subtree. POTD GFG.](https://www.youtube.com/watch?v=xOS3lxbpnCI)
+- [Terraform Day Zero: Your Infrastructure as Code Journey Begins](https://medium.com/@obrutus/terraform-day-zero-your-infrastructure-as-code-journey-begins-360b5d21c2c0?source=rss-b9bb2cd4a217------2)
+- [What If the OOD Interview Doesn’t Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l)
+- [Use Case Diagram](https://dev.to/obrutus/use-case-diagram-1m5a)
+- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
+- [Sequence diagram](https://dev.to/obrutus/sequence-diagram-3nk8)
 <!-- BLOG-POST-LIST:END -->
