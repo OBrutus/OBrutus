@@ -61,9 +61,9 @@ I run [**OBrutus**](https://youtube.com/@OBrutus) — a YouTube channel on compe
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Find Greatest Common Divisor of Array | Leetcode 1979](https://www.youtube.com/watch?v=slvWVLDkXRw)
 - [Maximum Area Between Bars | GFG POTD](https://www.youtube.com/watch?v=OAh5hnRDzUk)
 - [Discussion upon Rate Limiting](https://www.youtube.com/watch?v=sDlscV-S2-U)
 - [Elements in the Range. GFG POTD](https://www.youtube.com/watch?v=0kpkBPrIuKo)
 - [Last Coin in a Game of Alternates. GFG POTD](https://www.youtube.com/watch?v=G87wg6W_JpA)
-- [Transform to Sum Tree. GFG POTD](https://www.youtube.com/watch?v=pFr98ndtEjk)
 <!-- BLOG-POST-LIST:END -->
