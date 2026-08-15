@@ -61,9 +61,9 @@ I run [**OBrutus**](https://youtube.com/@OBrutus) — a YouTube channel on compe
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Day Zero: Your Infrastructure as Code Journey Begins](https://medium.com/@obrutus/terraform-day-zero-your-infrastructure-as-code-journey-begins-360b5d21c2c0?source=rss-b9bb2cd4a217------2)
-- [What If the OOD Interview Doesn’t Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l)
-- [Use Case Diagram](https://dev.to/obrutus/use-case-diagram-1m5a)
-- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
-- [Sequence diagram](https://dev.to/obrutus/sequence-diagram-3nk8)
+- [Subarrays with Sum in Range | GFG POTD](https://www.youtube.com/watch?v=92DycznOt2U)
+- [Find Missing Elements | Leetcode 3731](https://www.youtube.com/watch?v=jmKsQeFpcTg)
+- [Pairs with Less Than K Diff | GFG POTD](https://www.youtube.com/watch?v=FKa2L56j_L8)
+- [Max Sum Subarray of Size at least K | GFG POTD](https://www.youtube.com/watch?v=YNlVPmShaMs)
+- [Split Array into Minimum Subsets](https://www.youtube.com/watch?v=-0r6LpB4hkk)
 <!-- BLOG-POST-LIST:END -->
