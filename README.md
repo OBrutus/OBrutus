@@ -61,9 +61,9 @@ I run [**OBrutus**](https://youtube.com/@OBrutus) — a YouTube channel on compe
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Check Divisibility by Digit Sum and Product. Leetcode 3622](https://www.youtube.com/watch?v=HeNugV3pBW0)
 - [Subarrays with Sum in Range | GFG POTD](https://www.youtube.com/watch?v=92DycznOt2U)
 - [Find Missing Elements | Leetcode 3731](https://www.youtube.com/watch?v=jmKsQeFpcTg)
 - [Pairs with Less Than K Diff | GFG POTD](https://www.youtube.com/watch?v=FKa2L56j_L8)
 - [Max Sum Subarray of Size at least K | GFG POTD](https://www.youtube.com/watch?v=YNlVPmShaMs)
-- [Split Array into Minimum Subsets](https://www.youtube.com/watch?v=-0r6LpB4hkk)
 <!-- BLOG-POST-LIST:END -->
