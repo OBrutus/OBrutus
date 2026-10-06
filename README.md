@@ -61,9 +61,9 @@ I run [**OBrutus**](https://youtube.com/@OBrutus) — a YouTube channel on compe
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Social Network: When &quot;Optimize It&quot; Is a Trap](https://dev.to/obrutus/your-social-network-when-optimize-it-is-a-trap-162d)
+- [Your Social Network](https://www.youtube.com/watch?v=tsldcKZ9KRU)
 - [Perimeter of Shapes in Binary Matrix | Practice GFG](https://www.youtube.com/watch?v=hF0MpseZ570)
 - [Minimum Absolute Difference In BST | Practice GFG](https://www.youtube.com/watch?v=icgni5Q6dV4)
 - [Check Divisibility by Digit Sum and Product. Leetcode 3622](https://www.youtube.com/watch?v=HeNugV3pBW0)
-- [Subarrays with Sum in Range | GFG POTD](https://www.youtube.com/watch?v=92DycznOt2U)
-- [Find Missing Elements | Leetcode 3731](https://www.youtube.com/watch?v=jmKsQeFpcTg)
 <!-- BLOG-POST-LIST:END -->
