@@ -62,7 +62,7 @@ I run [**OBrutus**](https://youtube.com/@OBrutus) — a YouTube channel on compe
 
 <!-- BLOG-POST-LIST:START -->
 - [Your Social Network: When &quot;Optimize It&quot; Is a Trap](https://dev.to/obrutus/your-social-network-when-optimize-it-is-a-trap-162d)
-- [Your Social Network](https://www.youtube.com/watch?v=tsldcKZ9KRU)
+- [Your Social Network | GFG POTD](https://www.youtube.com/watch?v=tsldcKZ9KRU)
 - [Perimeter of Shapes in Binary Matrix | Practice GFG](https://www.youtube.com/watch?v=hF0MpseZ570)
 - [Minimum Absolute Difference In BST | Practice GFG](https://www.youtube.com/watch?v=icgni5Q6dV4)
 - [Check Divisibility by Digit Sum and Product. Leetcode 3622](https://www.youtube.com/watch?v=HeNugV3pBW0)
