@@ -62,8 +62,8 @@ I run [**OBrutus**](https://youtube.com/@OBrutus) — a YouTube channel on compe
 
 <!-- BLOG-POST-LIST:START -->
 - [Your Social Network: When &quot;Optimize It&quot; Is a Trap](https://dev.to/obrutus/your-social-network-when-optimize-it-is-a-trap-162d)
-- [Your Social Network | GFG POTD](https://www.youtube.com/watch?v=tsldcKZ9KRU)
-- [Perimeter of Shapes in Binary Matrix | Practice GFG](https://www.youtube.com/watch?v=hF0MpseZ570)
-- [Minimum Absolute Difference In BST | Practice GFG](https://www.youtube.com/watch?v=icgni5Q6dV4)
-- [Check Divisibility by Digit Sum and Product. Leetcode 3622](https://www.youtube.com/watch?v=HeNugV3pBW0)
+- [Terraform Day Zero: Your Infrastructure as Code Journey Begins](https://medium.com/@obrutus/terraform-day-zero-your-infrastructure-as-code-journey-begins-360b5d21c2c0?source=rss-b9bb2cd4a217------2)
+- [What If the OOD Interview Doesn’t Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l)
+- [Use Case Diagram](https://dev.to/obrutus/use-case-diagram-1m5a)
+- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
 <!-- BLOG-POST-LIST:END -->
