@@ -61,9 +61,9 @@ I run [**OBrutus**](https://youtube.com/@OBrutus) — a YouTube channel on compe
 [comment]: <> (The blogs starts from here)
 
 <!-- BLOG-POST-LIST:START -->
+- [Youtube Playlist Dowloader](https://gist.github.com/OBrutus/f1e7f124faeb1b5deef37215dd26ee38)
 - [Trace Path: Why Net Displacement Is the Wrong Check](https://dev.to/obrutus/trace-path-why-net-displacement-is-the-wrong-check-3gkh)
 - [Your Social Network: When &quot;Optimize It&quot; Is a Trap](https://dev.to/obrutus/your-social-network-when-optimize-it-is-a-trap-162d)
 - [Terraform Day Zero: Your Infrastructure as Code Journey Begins](https://medium.com/@obrutus/terraform-day-zero-your-infrastructure-as-code-journey-begins-360b5d21c2c0?source=rss-b9bb2cd4a217------2)
 - [What If the OOD Interview Doesn’t Go as Planned?](https://dev.to/obrutus/what-if-the-ood-interview-doesnt-go-as-planned-344l)
-- [Use Case Diagram](https://dev.to/obrutus/use-case-diagram-1m5a)
 <!-- BLOG-POST-LIST:END -->
